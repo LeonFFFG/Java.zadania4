@@ -2,8 +2,8 @@ package czwartek;
 
 import java.util.Scanner;
 
-public class zadanie4 {
-    public static class zadanie4 {
+public class zadanieIV {
+
         public static void main(String[] args) {
 
 
@@ -38,4 +38,4 @@ public class zadanie4 {
             }
         }
     }
-}
+
