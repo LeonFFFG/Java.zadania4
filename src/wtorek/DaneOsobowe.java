@@ -1,3 +1,5 @@
+package wtorek;
+
 public class DaneOsobowe {
     public static void main(String[] args){
         System.out.println("Leon Pawlik \n");

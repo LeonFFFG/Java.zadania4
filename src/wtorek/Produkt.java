@@ -1,3 +1,5 @@
+package wtorek;
+
 import java.util.Scanner;
 public class Produkt {
     public static void main(String[] args){

@@ -1,5 +1,6 @@
+package wtorek;
 
-    public class Pomieszczenia2 {
+public class Pomieszczenia2 {
         public static void main(String[] args){
 
 

@@ -1,3 +1,5 @@
+package wtorek;
+
 public class Procent {
 
     public static void main(String[] args){

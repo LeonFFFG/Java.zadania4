@@ -1,3 +1,5 @@
+package wtorek;
+
 public class zmienne {
     public static void main(String[] args){
 

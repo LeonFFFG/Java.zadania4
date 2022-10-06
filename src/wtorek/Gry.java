@@ -1,3 +1,5 @@
+package wtorek;
+
 public class Gry {
     public static void main(String[] args){
 

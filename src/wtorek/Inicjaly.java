@@ -1,3 +1,5 @@
+package wtorek;
+
 public class Inicjaly {
     public static void main(String[] args){
         String firstname = "Leon";
